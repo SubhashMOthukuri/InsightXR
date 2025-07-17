@@ -1,0 +1,9 @@
+openai
+langchain
+pinecone-client
+python-dotenv
+streamlit
+pytesseract
+Pillow
+pdf2image
+tqdm
