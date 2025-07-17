@@ -41,7 +41,7 @@ PINECONE_API_KEY=your-pinecone-key   # (not used with Chroma, but may be require
 PINECONE_ENVIRONMENT=us-east-1-aws   # (not used with Chroma, but may be required by some scripts)
 ```
 
-### 4. (Optional) Install Tesseract for OCR
+### 4. Install Tesseract for OCR
 
 If you want to process images, install Tesseract:
 
